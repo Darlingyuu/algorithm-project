@@ -41,7 +41,7 @@ public class TwoSum {
         }
 
         /**
-         * 用HashMap
+         * 用HashMap   O（n)
          * @param nums
          * @param target
          * @return
