@@ -26,11 +26,19 @@ public class Reverse {
             return res;
         }
 
+        /**
+         * 经过 res = res * 10 + x % 10 这一步后：
+         * 1.如果res超出最大值，则它会由正数变成一个负数
+         * 2.如果res超出最小值，则它会由负数变成一个正数
+         * 总之这两种情况中res的正负号肯定与x是相反的
+         * 所以，如果result超出范围，result%10与x%10肯定是一个为正数，一个为负数，不可能相等，反之如果result没有超出范围，result%10与x%10肯定相等
+         * @param x
+         * @return
+         */
         public int reverseII(int x) {
             int res = 0;
             while (x != 0) {
                 res = res * 10 + x % 10;
-                // res，result%10与x%10肯定相等
                 if (res % 10 != x % 10) {
                     return 0;
                 }
