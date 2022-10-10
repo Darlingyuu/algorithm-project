@@ -27,12 +27,16 @@ public class Reverse {
         }
 
         public int reverseII(int x) {
-            long res = 0;
+            int res = 0;
             while (x != 0) {
-                res=res*10 + x%10;
-                x=x/10;
+                res = res * 10 + x % 10;
+                // res，result%10与x%10肯定相等
+                if (res % 10 != x % 10) {
+                    return 0;
+                }
+                x = x / 10;
             }
-            return (int)res==res?(int)res:0;
+            return res;
         }
     }
 }
