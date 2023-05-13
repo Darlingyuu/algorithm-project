@@ -43,4 +43,7 @@
         104. 二叉树的最大深度[easy]----MaxDepth
         144. 二叉树的前序遍历[easy]----PreorderTraversal
         543. 二叉树的直径[easy]----DiameterOfBinaryTree
-        
+>动态规划解题套路框架https://labuladong.gitee.io/algo/di-ling-zh-bfe1b/dong-tai-g-1e688/
+    
+        322. 零钱兑换----CoinChange
+        509. 斐波那契数[easy]----Fib
