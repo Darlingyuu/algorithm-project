@@ -9,6 +9,7 @@
     20230511----1016. 子串能表示从 1 到 N 数字的二进制串[medium]
     20230512----1330. 翻转子数组得到最大的数组值[hard]
     20230513----2441. 与对应负数同时存在的最大正整数[easy]
+    20230514----1054. 距离相等的条形码[medium]----RearrangeBarcodes
 ## 学习labuladong
 - 20230511
 >双指针技巧秒杀七道链表题目https://labuladong.gitee.io/algo/di-ling-zh-bfe1b/shuang-zhi-0f7cc/
