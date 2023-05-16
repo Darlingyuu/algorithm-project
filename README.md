@@ -72,4 +72,14 @@
 >BFS 算法解题套路框架https://labuladong.gitee.io/algo/di-ling-zh-bfe1b/bfs-suan-f-463fd/
 
         111. 二叉树的最小深度[easy]----MinDepth
-                
+        752. 打开转盘锁[medium]----OpenLock
+
+- 20230516
+>我写了首诗，把二分搜索算法变成了默写题https://labuladong.gitee.io/algo/di-ling-zh-bfe1b/wo-xie-le--3c789/
+
+        34. 在排序数组中查找元素的第一个和最后一个位置[medium]----SearchRange
+        704. 二分查找[easy]----Search
+        
+>我写了首诗，把滑动窗口算法变成了默写题https://labuladong.gitee.io/algo/di-ling-zh-bfe1b/wo-xie-le--f02cd/
+    
+                           
