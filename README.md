@@ -66,3 +66,8 @@
         77. 组合[medium]----Combine
         78. 子集[medium]----Subsets
         90. 子集 II[medium]----SubsetsWithDup
+        
+>BFS 算法解题套路框架https://labuladong.gitee.io/algo/di-ling-zh-bfe1b/bfs-suan-f-463fd/
+
+        111. 二叉树的最小深度[easy]----MinDepth
+                
