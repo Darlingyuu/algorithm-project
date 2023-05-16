@@ -11,6 +11,8 @@
     20230513----2441. 与对应负数同时存在的最大正整数[easy]
     20230514----1054. 距离相等的条形码[medium]----RearrangeBarcodes
     20230515----1072. 按列翻转得到最大值等行数[medium]----MaxEqualRowsAfterFlips
+    20230516----1335. 工作计划的最低难度[hard]----MinDifficulty
+    
 ## 学习labuladong
 - 20230511
 >双指针技巧秒杀七道链表题目https://labuladong.gitee.io/algo/di-ling-zh-bfe1b/shuang-zhi-0f7cc/
