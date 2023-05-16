@@ -82,4 +82,7 @@
         
 >我写了首诗，把滑动窗口算法变成了默写题https://labuladong.gitee.io/algo/di-ling-zh-bfe1b/wo-xie-le--f02cd/
     
-                           
+        3. 无重复字符的最长子串[medium]----LengthOfLongestSubstring
+        438. 找到字符串中所有字母异位词[medium]----FindAnagrams 
+        567. 字符串的排列[medium]----CheckInclusion
+        76. 最小覆盖子串[hard]----MinWindow    
