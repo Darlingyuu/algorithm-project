@@ -86,4 +86,15 @@
         3. 无重复字符的最长子串[medium]----LengthOfLongestSubstring
         438. 找到字符串中所有字母异位词[medium]----FindAnagrams 
         567. 字符串的排列[medium]----CheckInclusion
-        76. 最小覆盖子串[hard]----MinWindow    
+        76. 最小覆盖子串[hard]----MinWindow
+
+- 20230517
+>一个方法团灭 LeetCode 股票买卖问题https://labuladong.gitee.io/algo/di-ling-zh-bfe1b/yi-ge-fang-3b01b/
+
+    121. 买卖股票的最佳时机[easy]----MaxProfit
+    122. 买卖股票的最佳时机 II[medium]----MaxProfitII
+    123. 买卖股票的最佳时机 III[hard]----MaxProfitIII
+    188. 买卖股票的最佳时机 IV[hard]----MaxProfitIV
+    309. 最佳买卖股票时机含冷冻期[medium]----MaxProfitV
+    714. 买卖股票的最佳时机含手续费[medium]----MaxProfitVI
+                
