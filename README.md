@@ -12,6 +12,7 @@
     20230514----1054. 距离相等的条形码[medium]----RearrangeBarcodes
     20230515----1072. 按列翻转得到最大值等行数[medium]----MaxEqualRowsAfterFlips
     20230516----1335. 工作计划的最低难度[hard]----MinDifficulty
+    20230517----2446. 判断两个事件是否存在冲突[easy]----HaveConflict
     
 ## 学习labuladong
 - 20230511
