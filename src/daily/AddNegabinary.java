@@ -34,6 +34,9 @@ public class AddNegabinary {
                 if (q>=0){
                     m+=arr2[q];
                 }
+
+                // (-2)^i+(-2)^i = - (-2)^ (i+1)
+                //可以向前抵消一位
                 if (m>=2){
                     ans.add(m-2);
                     n=-1;
@@ -41,6 +44,8 @@ public class AddNegabinary {
                     ans.add(m);
                     n=0;
                 }else {
+                    // 当前位不够抵消，向前面借
+                    // -(-2)^i =  (-2)^ (i+1) + (-2)^i
                     ans.add(1);
                     n=1;
                 }
