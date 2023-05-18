@@ -103,4 +103,11 @@
 
     198. 打家劫舍[medium]----Rob
     213. 打家劫舍 II[medium]----RobII
-    337. 打家劫舍 III[medium]----RobIII                
+    337. 打家劫舍 III[medium]----RobIII    
+    
+> 一个函数秒杀 2Sum 3Sum 4Sum 问题https://mp.weixin.qq.com/s/fSyJVvggxHq28a0SdmZm6Q
+
+    1. 两数之和[easy]----TwoSum
+    15. 三数之和[medium]----ThreeSum 
+    167. 两数之和 II - 输入有序数组[medium]----TwoSumII
+    18. 四数之和[medium]----FourSum               
