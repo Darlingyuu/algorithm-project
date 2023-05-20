@@ -14,6 +14,8 @@
     20230516----1335. 工作计划的最低难度[hard]----MinDifficulty
     20230517----2446. 判断两个事件是否存在冲突[easy]----HaveConflict
     20230518----1073. 负二进制数相加[medium]----AddNegabinary
+    20230519----1079. 活字印刷[medium]----NumTilePossibilities
+    20230520----1373. 二叉搜索子树的最大键值和[hard]----MaxSumBST
     
 ## 学习labuladong
 - 20230511
