@@ -112,4 +112,11 @@
     1. 两数之和[easy]----TwoSum
     15. 三数之和[medium]----ThreeSum 
     167. 两数之和 II - 输入有序数组[medium]----TwoSumII
-    18. 四数之和[medium]----FourSum               
+    18. 四数之和[medium]----FourSum
+    
+    
+- 20230520
+> 递归魔法：反转单链表https://labuladong.gitee.io/algo/di-yi-zhan-da78c/shou-ba-sh-8f30d/di-gui-mo--10b77/
+
+    206. 反转链表[easy]----ReverseList
+    92. 反转链表 II[medium]----ReverseBetween                    
