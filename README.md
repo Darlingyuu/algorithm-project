@@ -16,6 +16,7 @@
     20230518----1073. 负二进制数相加[medium]----AddNegabinary
     20230519----1079. 活字印刷[medium]----NumTilePossibilities
     20230520----1373. 二叉搜索子树的最大键值和[hard]----MaxSumBST
+    20230521----LCP 33. 蓄水[easy]----StoreWater
     
 ## 学习labuladong
 - 20230511
