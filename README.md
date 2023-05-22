@@ -17,6 +17,7 @@
     20230519----1079. 活字印刷[medium]----NumTilePossibilities
     20230520----1373. 二叉搜索子树的最大键值和[hard]----MaxSumBST
     20230521----LCP 33. 蓄水[easy]----StoreWater
+    20230522----1080. 根到叶路径上的不足节点[medium]----SufficientSubset
     
 ## 学习labuladong
 - 20230511
