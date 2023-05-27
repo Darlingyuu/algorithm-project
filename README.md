@@ -125,4 +125,22 @@
 > 递归魔法：反转单链表https://labuladong.gitee.io/algo/di-yi-zhan-da78c/shou-ba-sh-8f30d/di-gui-mo--10b77/
 
     206. 反转链表[easy]----ReverseList
-    92. 反转链表 II[medium]----ReverseBetween                    
+    92. 反转链表 II[medium]----ReverseBetween  
+    
+- 20230526
+> 如何 K 个一组反转链表https://labuladong.gitee.io/algo/di-yi-zhan-da78c/shou-ba-sh-8f30d/ru-he-k-ge-d591d/
+    
+    25. K 个一组翻转链表[hard]----ReverseKGroup
+> 如何判断回文链表https://labuladong.gitee.io/algo/di-yi-zhan-da78c/shou-ba-sh-8f30d/ru-he-pan--f9d3c/
+
+    234. 回文链表[easy]----IsPalindrome                      
+    
+> 小而美的算法技巧：前缀和数组https://labuladong.gitee.io/algo/di-yi-zhan-da78c/shou-ba-sh-48c1d/xiao-er-me-03265/
+
+    303. 区域和检索 - 数组不可变[easy]----NumArray
+    304. 二维区域和检索 - 矩阵不可变[medium]----NumMatrix
+    
+> 小而美的算法技巧：差分数组https://labuladong.gitee.io/algo/di-yi-zhan-da78c/shou-ba-sh-48c1d/xiao-er-me-c304e/
+
+    1094. 拼车【medium]----CarPooling
+    1109. 航班预订统计[medium]----CorpFlightBookings        
