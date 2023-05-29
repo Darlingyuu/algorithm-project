@@ -23,6 +23,7 @@
     20230525----2451. 差值数组不同的字符串[easy]----OddString
     20230526----1091. 二进制矩阵中的最短路径[medium]----ShortestPathBinaryMatrix
     20230527----1093. 大样本统计[medium]----SampleStats
+    20230528----1439. 有序矩阵中的第 k 个最小数组和[hard]----KthSmallest
     
 ## 学习labuladong
 - 20230511
@@ -151,4 +152,21 @@
     151. 反转字符串中的单词[medium]----ReverseWords
     48. 旋转图像[medium]----Rotate
     54. 螺旋矩阵[medium]----SpiralOrder
-    59. 螺旋矩阵 II[medium]----GenerateMatrix    
+    59. 螺旋矩阵 II[medium]----GenerateMatrix
+ 
+- 20230528  
+> 带权重的随机选择算法https://labuladong.gitee.io/algo/di-yi-zhan-da78c/shou-ba-sh-48c1d/dai-quan-z-585d6/
+
+    528. 按权重随机选择[medium]----PickIndex
+    
+> 二分搜索https://labuladong.gitee.io/algo/di-yi-zhan-da78c/shou-ba-sh-48c1d/er-fen-sou-ae51e/
+
+    1011. 在 D 天内送达包裹的能力[medium]----ShipWithinDays
+    410. 分割数组的最大值[hard]----SplitArray
+    875. 爱吃香蕉的珂珂[medium]----MinEatingSpeed
+ 
+> 田忌赛马背后的算法决策https://labuladong.gitee.io/algo/di-yi-zhan-da78c/shou-ba-sh-48c1d/tian-ji-sa-7baa4/
+
+    870. 优势洗牌[medium]----AdvantageCount
+    
+        
