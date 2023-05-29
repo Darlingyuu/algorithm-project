@@ -170,4 +170,13 @@
 
     870. 优势洗牌[medium]----AdvantageCount
     
-        
+- 20230529
+> 常数时间删除-查找数组中的任意元素https://labuladong.gitee.io/algo/di-yi-zhan-da78c/shou-ba-sh-48c1d/chang-shu--6b296/
+
+    380. O(1) 时间插入、删除和获取随机元素[medium]----RandomizedSet
+    710. 黑名单中的随机数[hard]----Blacklist
+
+> 一道数组去重的算法题把我整不会了https://labuladong.gitee.io/algo/di-yi-zhan-da78c/shou-ba-sh-48c1d/yi-dao-shu-ed782/        
+
+    1081. 不同字符的最小子序列[medium]----SmallestSubsequence
+    316. 去除重复字母[medium]----RemoveDuplicateLetters    
