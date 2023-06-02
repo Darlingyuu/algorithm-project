@@ -27,6 +27,8 @@
     20230529----2455. 可被三整除的偶数的平均值[easy]----AverageValue
     20230530----1110. 删点成林[medium]----DelNodes
     20230531----1130. 叶值的最小代价生成树[medium]----MctFromLeafValues
+    20230601----2517. 礼盒的最大甜蜜度[medium]----MaximumTastiness
+    20230602----2559. 统计范围内的元音字符串数[medium]----VowelStrings
     
 ## 学习labuladong
 - 20230511
@@ -182,3 +184,33 @@
 
     1081. 不同字符的最小子序列[medium]----SmallestSubsequence
     316. 去除重复字母[medium]----RemoveDuplicateLetters    
+    
+- 20230601
+> 东哥带你刷二叉树（思路篇）https://labuladong.gitee.io/algo/di-yi-zhan-da78c/shou-ba-sh-66994/dong-ge-da-cbce8/
+
+    114. 二叉树展开为链表[medium]----Flatten
+    116. 填充每个节点的下一个右侧节点指针[medium]----Connect 
+    226. 翻转二叉树[easy]----InvertTree   
+   
+> 东哥带你刷二叉树（构造篇）https://labuladong.gitee.io/algo/di-yi-zhan-da78c/shou-ba-sh-66994/dong-ge-da-172f0/
+
+       105. 从前序与中序遍历序列构造二叉树[medium]----BuildTreeI
+       106. 从中序与后序遍历序列构造二叉树[medium]----BuildTreeII
+       654. 最大二叉树[medium]----ConstructMaximumBinaryTree
+       889. 根据前序和后序遍历构造二叉树[medium]----ConstructFromPrePost
+    
+> 东哥带你刷二叉树（后序篇）https://labuladong.gitee.io/algo/di-yi-zhan-da78c/shou-ba-sh-66994/dong-ge-da-c5ca4/
+
+    652. 寻找重复的子树[medium]----FindDuplicateSubtrees
+    
+> 东哥带你刷二叉树（序列化篇）https://labuladong.gitee.io/algo/di-yi-zhan-da78c/shou-ba-sh-66994/dong-ge-da-d14d3/
+
+    297. 二叉树的序列化与反序列化[hard]----Codec
+    
+- 20230602
+> 归并排序详解及应用https://labuladong.gitee.io/algo/di-yi-zhan-da78c/shou-ba-sh-66994/gui-bing-p-1387f/
+
+    315. 计算右侧小于当前元素的个数[hard]----CountSmaller
+    327. 区间和的个数[hard]----CountRangeSum
+    493. 翻转对[hard]----ReversePairs
+    912. 排序数组[medium]----SortArray        
