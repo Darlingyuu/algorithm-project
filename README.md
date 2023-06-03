@@ -214,4 +214,11 @@
     315. 计算右侧小于当前元素的个数[hard]----CountSmaller
     327. 区间和的个数[hard]----CountRangeSum
     493. 翻转对[hard]----ReversePairs
-    912. 排序数组[medium]----SortArray        
+    912. 排序数组[medium]----SortArray
+    
+- 20230603
+> 东哥带你刷二叉搜索树（特性篇）https://labuladong.gitee.io/algo/di-yi-zhan-da78c/shou-ba-sh-66994/dong-ge-da-8f403/
+
+    1038. 从二叉搜索树到更大和树[medium]----BstToGst
+    538. 把二叉搜索树转换为累加树[medium]----BstToGst   
+    230. 二叉搜索树中第K小的元素[medium]----KthSmallest         
