@@ -29,6 +29,7 @@
     20230531----1130. 叶值的最小代价生成树[medium]----MctFromLeafValues
     20230601----2517. 礼盒的最大甜蜜度[medium]----MaximumTastiness
     20230602----2559. 统计范围内的元音字符串数[medium]----VowelStrings
+    20230603----1156. 单字符重复子串的最大长度[medium]----MaxRepOpt1
     
 ## 学习labuladong
 - 20230511
