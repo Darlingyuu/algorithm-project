@@ -231,4 +231,9 @@
     450. 删除二叉搜索树中的节点[medium]----DeleteNode
     700. 二叉搜索树中的搜索[easy]----SearchBST
     701. 二叉搜索树中的插入操作[medium]----InsertIntoBST
-    98. 验证二叉搜索树[medium]----IsValidBST         
+    98. 验证二叉搜索树[medium]----IsValidBST 
+    
+> 动态规划设计：最长递增子序列https://labuladong.gitee.io/algo/di-er-zhan-a01c6/dong-tai-g-a223e/dong-tai-g-6ea57/
+
+    300. 最长递增子序列[medium]----LengthOfLIS
+    354. 俄罗斯套娃信封问题[hard]----MaxEnvelopes
