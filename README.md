@@ -223,4 +223,12 @@
 
     1038. 从二叉搜索树到更大和树[medium]----BstToGst
     538. 把二叉搜索树转换为累加树[medium]----BstToGst   
-    230. 二叉搜索树中第K小的元素[medium]----KthSmallest         
+    230. 二叉搜索树中第K小的元素[medium]----KthSmallest
+    
+- 20230605
+> 东哥带你刷二叉搜索树（基操篇）https://labuladong.gitee.io/algo/di-yi-zhan-da78c/shou-ba-sh-66994/dong-ge-da-7b3e4/
+
+    450. 删除二叉搜索树中的节点[medium]----DeleteNode
+    700. 二叉搜索树中的搜索[easy]----SearchBST
+    701. 二叉搜索树中的插入操作[medium]----InsertIntoBST
+    98. 验证二叉搜索树[medium]----IsValidBST         
