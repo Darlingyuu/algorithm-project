@@ -237,3 +237,16 @@
 
     300. 最长递增子序列[medium]----LengthOfLIS
     354. 俄罗斯套娃信封问题[hard]----MaxEnvelopes
+
+> BASE CASE 和备忘录的初始值怎么定？https://labuladong.gitee.io/algo/di-er-zhan-a01c6/dong-tai-g-a223e/basecase-h-de925/
+    
+    931. 下降路径最小和[medium]----MinFallingPathSum
+
+> 动态规划穷举的两种视角https://labuladong.gitee.io/algo/di-er-zhan-a01c6/dong-tai-g-a223e/dong-tai-g-2526f/
+
+    115. 不同的子序列[hard]----NumDistinct
+    
+> 动态规划和回溯算法的思维转换https://labuladong.gitee.io/algo/di-er-zhan-a01c6/dong-tai-g-a223e/dong-tai-g-f0a05/
+    
+    139. 单词拆分[medium]----WordBreak
+    140. 单词拆分 II[hard]----WordBreakII
