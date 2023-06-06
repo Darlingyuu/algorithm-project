@@ -32,6 +32,7 @@
     20230603----1156. 单字符重复子串的最大长度[medium]----MaxRepOpt1
     20230604----2465. 不同的平均值数目[easy]----DistinctAverages
     20230605----2460. 对数组执行操作[easy]----ApplyOperations
+    20230606----2352. 相等行列对[medium]----EqualPairs
     
 ## 学习labuladong
 - 20230511
