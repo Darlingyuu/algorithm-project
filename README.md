@@ -251,3 +251,17 @@
     
     139. 单词拆分[medium]----WordBreak
     140. 单词拆分 II[hard]----WordBreakII
+    
+- 20230606
+> 如何高效解决接雨水问题https://labuladong.gitee.io/algo/di-san-zha-24031/jing-dian--a94a0/ru-he-gao--0d5eb/
+
+    11. 盛最多水的容器[medium]----MaxArea
+    42. 接雨水[hard]----Trap
+    
+- 20230607 
+> 如何解决括号相关的问题https://labuladong.gitee.io/algo/di-san-zha-24031/jing-dian--a94a0/ru-he-jie--306f6/
+
+    20. 有效的括号[easy]----IsValid
+    921. 使括号有效的最少添加[medium]----MinAddToMakeValid
+    1541. 平衡括号字符串的最少插入次数[medium]----MinInsertions
+           
