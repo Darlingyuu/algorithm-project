@@ -33,6 +33,7 @@
     20230604----2465. 不同的平均值数目[easy]----DistinctAverages
     20230605----2460. 对数组执行操作[easy]----ApplyOperations
     20230606----2352. 相等行列对[medium]----EqualPairs
+    20230607----2611. 老鼠和奶酪[medium]----MiceAndCheese
     
 ## 学习labuladong
 - 20230511
@@ -264,4 +265,15 @@
     20. 有效的括号[easy]----IsValid
     921. 使括号有效的最少添加[medium]----MinAddToMakeValid
     1541. 平衡括号字符串的最少插入次数[medium]----MinInsertions
+      
+> 单调栈结构解决三道算法题https://labuladong.gitee.io/algo/di-yi-zhan-da78c/shou-ba-sh-daeca/dan-diao-z-1bebe/      
+      
+    496. 下一个更大元素 I[easy]----NextGreaterElement
+    503. 下一个更大元素 II[medium]----NextGreaterElements
+    739. 每日温度[hard]----DailyTemperatures
+    
+> 单调队列结构解决滑动窗口问题https://labuladong.gitee.io/algo/di-yi-zhan-da78c/shou-ba-sh-daeca/dan-diao-d-32cd5/
+
+    239. 滑动窗口最大值[hard]----MaxSlidingWindow
+   
            
