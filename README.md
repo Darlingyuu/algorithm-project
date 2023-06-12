@@ -294,4 +294,13 @@
 > 环检测及拓扑排序算法https://labuladong.gitee.io/algo/di-yi-zhan-da78c/shou-ba-sh-03a72/huan-jian--e36de/
 
     207. 课程表[medium]----CanFinish
-    210. 课程表 II[medium]----FindOrder               
+    210. 课程表 II[medium]----FindOrder
+    
+> 一文秒杀 5 道最近公共祖先问题https://mp.weixin.qq.com/s/njl6nuid0aalZdH5tuDpqQ
+    
+    235. 二叉搜索树的最近公共祖先[medium]----LowestCommonAncestorBinaryTree
+    236. 二叉树的最近公共祖先[medium]----LowestCommonAncestor
+    1644.二叉树的最近公共祖先 II[medium]----LowestCommonAncestorII
+    1650.二叉树的最近公共祖先 III[medium]----LowestCommonAncestorIII
+    1676.二叉树的最近公共祖先 IV[medium]----LowestCommonAncestorIV
+                   
