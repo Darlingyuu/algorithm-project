@@ -34,6 +34,11 @@
     20230605----2460. 对数组执行操作[easy]----ApplyOperations
     20230606----2352. 相等行列对[medium]----EqualPairs
     20230607----2611. 老鼠和奶酪[medium]----MiceAndCheese
+    20230608----1240. 铺瓷砖[hard]----TilingRectangle
+    20230609----2699. 修改图中的边权[hard]----ModifiedGraphEdges
+    20230610----1170. 比较字符串最小字母出现频次[medium]---NumSmallerByFrequency
+    20230611----1171. 从链表中删去总和值为零的连续节点[medium]----RemoveZeroSumSublists
+    20230612----1483. 树节点的第 K 个祖先[hard]----TreeAncestor
     
 ## 学习labuladong
 - 20230511
@@ -276,4 +281,11 @@
 
     239. 滑动窗口最大值[hard]----MaxSlidingWindow
    
-           
+> 二叉堆详解实现优先级队列https://labuladong.gitee.io/algo/di-yi-zhan-da78c/shou-ba-sh-daeca/er-cha-dui-1a386/
+
+    MaxPQ
+
+- 20230611
+> 图论基础及遍历算法https://labuladong.gitee.io/algo/di-yi-zhan-da78c/shou-ba-sh-03a72/tu-lun-ji--d55b2/
+
+    797. 所有可能的路径[medium]----AllPathsSourceTarget           
