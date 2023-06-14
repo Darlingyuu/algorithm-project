@@ -39,6 +39,9 @@
     20230610----1170. 比较字符串最小字母出现频次[medium]---NumSmallerByFrequency
     20230611----1171. 从链表中删去总和值为零的连续节点[medium]----RemoveZeroSumSublists
     20230612----1483. 树节点的第 K 个祖先[hard]----TreeAncestor
+    20230613----2475. 数组中不等三元组的数目[easy]----UnequalTriplets
+    20230614----1375. 二进制字符串前缀一致的次数[medium]----NumTimesAllBlue
+    
     
 ## 学习labuladong
 - 20230511
