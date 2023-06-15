@@ -41,6 +41,7 @@
     20230612----1483. 树节点的第 K 个祖先[hard]----TreeAncestor
     20230613----2475. 数组中不等三元组的数目[easy]----UnequalTriplets
     20230614----1375. 二进制字符串前缀一致的次数[medium]----NumTimesAllBlue
+    20230615----1177. 构建回文串检测[medium]----CanMakePaliQueries
     
     
 ## 学习labuladong
