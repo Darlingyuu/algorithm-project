@@ -1,4 +1,4 @@
-package deque;
+package designDataStructure;
 
 // 二叉堆详解实现优先级队列
 public class MaxPQ {

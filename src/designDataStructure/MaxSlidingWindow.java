@@ -1,4 +1,4 @@
-package deque;
+package designDataStructure;
 
 import java.util.ArrayList;
 import java.util.Arrays;
