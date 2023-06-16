@@ -318,4 +318,8 @@
 > 算法就像搭乐高：带你手撸 LRU 算法https://labuladong.gitee.io/algo/di-yi-zhan-da78c/shou-ba-sh-daeca/suan-fa-ji-8674e/
 
     146. LRU 缓存[medium]----LRUCache                       
-    146. LRU 缓存[medium]----LRUCacheII                       
+    146. LRU 缓存[medium]----LRUCacheII
+    
+> 算法题就像搭乐高：手把手带你拆解 LFU 算法https://mp.weixin.qq.com/s/oXv03m1J8TwtHwMJEZ1ApQ
+
+    460. LFU 缓存[hard]----LFUCache                           
