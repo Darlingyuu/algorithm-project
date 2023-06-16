@@ -42,6 +42,7 @@
     20230613----2475. 数组中不等三元组的数目[easy]----UnequalTriplets
     20230614----1375. 二进制字符串前缀一致的次数[medium]----NumTimesAllBlue
     20230615----1177. 构建回文串检测[medium]----CanMakePaliQueries
+    20230616----1494. 并行课程 II[medium]----MinNumberOfSemesters
     
     
 ## 学习labuladong
