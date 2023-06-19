@@ -43,6 +43,9 @@
     20230614----1375. 二进制字符串前缀一致的次数[medium]----NumTimesAllBlue
     20230615----1177. 构建回文串检测[medium]----CanMakePaliQueries
     20230616----1494. 并行课程 II[medium]----MinNumberOfSemesters
+    20230617----2481. 分割圆的最少切割次数[easy]----NumberOfCuts
+    20230618----1254. 统计封闭岛屿的数目[medium]----ClosedIsland
+    20230619----1262. 可被三整除的最大和[medium]----1262. 可被三整除的最大和[medium]
     
     
 ## 学习labuladong
@@ -320,6 +323,11 @@
     146. LRU 缓存[medium]----LRUCache                       
     146. LRU 缓存[medium]----LRUCacheII
     
+- 20230616    
 > 算法题就像搭乐高：手把手带你拆解 LFU 算法https://mp.weixin.qq.com/s/oXv03m1J8TwtHwMJEZ1ApQ
 
-    460. LFU 缓存[hard]----LFUCache                           
+    460. LFU 缓存[hard]----LFUCache
+    
+> 并查集（UNION-FIND）算法https://labuladong.gitee.io/algo/di-yi-zhan-da78c/shou-ba-sh-03a72/bing-cha-j-323f3/
+
+            
