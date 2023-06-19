@@ -333,3 +333,8 @@
 
     130. 被围绕的区域[medium]----Solve
     990. 等式方程的可满足性[medium]----EquationsPossible
+    
+> 东哥带你刷二叉搜索树（构造篇）https://mp.weixin.qq.com/s/kcwz2lyRxxOsC3n11qdVSw
+
+    96. 不同的二叉搜索树[medium]----NumTrees
+    95. 不同的二叉搜索树 II[medium]----GenerateTrees
