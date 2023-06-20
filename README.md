@@ -349,4 +349,9 @@
 > 题目不让我做什么，我就偏要去做什么(迭代器)https://mp.weixin.qq.com/s/uEmD5YVGG5LHQEmJQ2GSfw
     
     341. 扁平化嵌套列表迭代器[medium]----NestedIterator
-        
+  
+> 如何计算完全二叉树的节点数https://labuladong.gitee.io/algo/di-yi-zhan-da78c/shou-ba-sh-66994/ru-he-ji-s-2320e/
+
+    222. 完全二叉树的节点个数[medium]----CountNodes
+   
+           
