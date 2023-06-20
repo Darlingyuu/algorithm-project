@@ -345,3 +345,8 @@
 
     912. 排序数组[medium]----SortArray
     215. 数组中的第K个最大元素[medium]----FindKthLargest
+    
+> 题目不让我做什么，我就偏要去做什么(迭代器)https://mp.weixin.qq.com/s/uEmD5YVGG5LHQEmJQ2GSfw
+    
+    341. 扁平化嵌套列表迭代器[medium]----NestedIterator
+        
