@@ -1,4 +1,4 @@
-package tree;
+package designDataStructure;
 
 /**
  * 341. 扁平化嵌套列表迭代器[medium]
