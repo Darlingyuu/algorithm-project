@@ -45,7 +45,8 @@
     20230616----1494. 并行课程 II[medium]----MinNumberOfSemesters
     20230617----2481. 分割圆的最少切割次数[easy]----NumberOfCuts
     20230618----1254. 统计封闭岛屿的数目[medium]----ClosedIsland
-    20230619----1262. 可被三整除的最大和[medium]----1262. 可被三整除的最大和[medium]
+    20230619----1262. 可被三整除的最大和[medium]----MaxSumDivThree
+    20230620----1595. 连通两组点的最小成本[hard]----ConnectTwoGroups
     
     
 ## 学习labuladong
@@ -338,3 +339,8 @@
 
     96. 不同的二叉搜索树[medium]----NumTrees
     95. 不同的二叉搜索树 II[medium]----GenerateTrees
+    
+- 20230620
+> 快速排序的正确理解方式及运用https://mp.weixin.qq.com/s/8ZTMhvHJK_He48PpSt_AmQ
+
+    
