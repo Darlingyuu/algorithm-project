@@ -354,4 +354,6 @@
 
     222. 完全二叉树的节点个数[medium]----CountNodes
    
-           
+> Kruskal 最小生成树算法（克鲁斯卡尔算法）https://mp.weixin.qq.com/s/dJ9gqR3RVoeGnATlpMG39w
+
+    1584. 连接所有点的最小费用[medium]----MinCostConnectPoints      
