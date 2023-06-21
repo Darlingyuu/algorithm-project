@@ -47,9 +47,10 @@
     20230618----1254. 统计封闭岛屿的数目[medium]----ClosedIsland
     20230619----1262. 可被三整除的最大和[medium]----MaxSumDivThree
     20230620----1595. 连通两组点的最小成本[hard]----ConnectTwoGroups
+    20230621----LCP 41. 黑白翻转棋[medium]----FlipChess
     
     
-## 学习labuladong
+## 学习labuladong 的算法小抄
 - 20230511
 >双指针技巧秒杀七道链表题目https://labuladong.gitee.io/algo/di-ling-zh-bfe1b/shuang-zhi-0f7cc/
 
