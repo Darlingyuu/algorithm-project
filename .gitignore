@@ -12,3 +12,4 @@ buildNumber.properties
 .idea
 /src/weekExam
 /src/od
+/out
