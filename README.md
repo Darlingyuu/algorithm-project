@@ -368,4 +368,14 @@
 - 20230627
 > 经典动态规划：编辑距离https://labuladong.gitee.io/algo/di-er-zhan-a01c6/zi-xu-lie--6bc09/jing-dian--e5f5e/
 
-    72. 编辑距离[medium]----MinDistance          
+    72. 编辑距离[medium]----MinDistance
+    
+> 动态规划设计：最长递增子序列https://labuladong.gitee.io/algo/di-er-zhan-a01c6/zi-xu-lie--6bc09/dong-tai-g-6ea57/
+
+> 动态规划设计：最大子数组https://labuladong.gitee.io/algo/di-er-zhan-a01c6/zi-xu-lie--6bc09/dong-tai-g-ce18b/
+    
+> 经典动态规划：最长公共子序列https://mp.weixin.qq.com/s/ZhPEchewfc03xWv9VP3msg
+
+    1143. 最长公共子序列[medium]----LongestCommonSubsequence
+    583. 两个字符串的删除操作[medium]----MinDistanceByDel
+    712. 两个字符串的最小ASCII删除和[medium]----MinimumDeleteSum              
