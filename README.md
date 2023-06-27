@@ -363,4 +363,9 @@
    
 > Kruskal 最小生成树算法（克鲁斯卡尔算法）https://mp.weixin.qq.com/s/dJ9gqR3RVoeGnATlpMG39w
 
-    1584. 连接所有点的最小费用[medium]----MinCostConnectPoints      
+    1584. 连接所有点的最小费用[medium]----MinCostConnectPoints
+    
+- 20230627
+> 经典动态规划：编辑距离https://labuladong.gitee.io/algo/di-er-zhan-a01c6/zi-xu-lie--6bc09/jing-dian--e5f5e/
+
+    72. 编辑距离[medium]----MinDistance          
