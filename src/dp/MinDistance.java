@@ -21,10 +21,15 @@ public class MinDistance {
         private int dp(String word1, int p, String word2, int q) {
             // base case
             if (p==-1){
-                // word1匹配完，将word2未匹配完的部分都删除，其操作数为q+1;
+                // word1-->word2
+                // word1匹配完，说明word1已经转变成word2[q+1,..]
+                // 直接将word2[0,q]未匹配完的部分都插入到word1前面，其操作数为q+1;
                 return q+1;
             }
             if (q==-1){
+                // word1-->word2
+                // word2匹配完，说明word1[p+1,..]就是需要的word2
+                // 直接将word1[0,p]部分全部删除，其操作数为p+1;
                 return p+1;
             }
 
