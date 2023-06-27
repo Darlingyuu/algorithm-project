@@ -378,4 +378,9 @@
 
     1143. 最长公共子序列[medium]----LongestCommonSubsequence
     583. 两个字符串的删除操作[medium]----MinDistanceByDel
-    712. 两个字符串的最小ASCII删除和[medium]----MinimumDeleteSum              
+    712. 两个字符串的最小ASCII删除和[medium]----MinimumDeleteSum    
+    
+> 动态规划之子序列问题解题模板（无内容链接）
+
+    516. 最长回文子序列[medium]----LongestPalindromeSubseq
+    1312. 让字符串成为回文串的最少插入次数[hard]----MinInsertions              
