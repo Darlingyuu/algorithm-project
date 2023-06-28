@@ -54,6 +54,7 @@
     20230625----1401. 圆和矩形是否有重叠[medium]----CheckOverlap
     20230626----2485. 找出中枢整数[easy]----PivotInteger
     20230627----1186. 删除一次得到子数组最大和[medium]----MaximumSum
+    20230628----1681. 最小不兼容性[hard]----MinimumIncompatibility
     
     
 ## 学习labuladong 的算法小抄
