@@ -385,3 +385,18 @@
 
     516. 最长回文子序列[medium]----LongestPalindromeSubseq
     1312. 让字符串成为回文串的最少插入次数[hard]----MinInsertions              
+    
+- 20230628
+> 经典动态规划：0-1 背包问题https://labuladong.gitee.io/algo/di-er-zhan-a01c6/bei-bao-le-34bd4/jing-dian--28f3c/
+
+> 经典动态规划：子集背包问题https://labuladong.gitee.io/algo/di-er-zhan-a01c6/bei-bao-le-34bd4/jing-dian--43be3/
+
+    416. 分割等和子集[medium]----CanPartition
+    
+> 经典动态规划：完全背包问题https://labuladong.gitee.io/algo/di-er-zhan-a01c6/bei-bao-le-34bd4/jing-dian--70de0/
+
+    518. 零钱兑换 II[medium]----CoinChangeII
+    
+> 动态规划和回溯算法https://labuladong.gitee.io/algo/di-er-zhan-a01c6/bei-bao-le-34bd4/dong-tai-g-35341/
+
+    494. 目标和[medium]----FindTargetSumWays          
