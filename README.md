@@ -401,3 +401,20 @@
 > 动态规划和回溯算法https://labuladong.gitee.io/algo/di-er-zhan-a01c6/bei-bao-le-34bd4/dong-tai-g-35341/
 
     494. 目标和[medium]----FindTargetSumWays          
+    
+- 20230629
+> 动态规划之最小路径和https://labuladong.gitee.io/algo/di-er-zhan-a01c6/yong-dong--63ceb/dong-tai-g-52f34/
+
+    64. 最小路径和[medium]----MinPathSum
+    
+> 动态规划帮我通关了《魔塔》https://labuladong.gitee.io/algo/di-er-zhan-a01c6/yong-dong--63ceb/dong-tai-g-f43a3/
+
+    174. 地下城游戏[hard]----CalculateMinimumHP
+    
+> 动态规划帮我通关了《辐射4》https://labuladong.gitee.io/algo/di-er-zhan-a01c6/yong-dong--63ceb/dong-tai-g-9a75a/
+
+    514. 自由之路[hard]----FindRotateSteps
+    
+> 旅游省钱大法：加权最短路径https://labuladong.gitee.io/algo/di-er-zhan-a01c6/yong-dong--63ceb/lv-you-she-f3b76/
+
+    787. K 站中转内最便宜的航班[medium]----FindCheapestPrice        
