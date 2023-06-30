@@ -423,4 +423,9 @@
 - 20230630
 > 经典动态规划：正则表达式https://mp.weixin.qq.com/s/rnaFK05IcFWvNN1ppNf2ug
 
-    10. 正则表达式匹配[hard]----IsMatch    
+    10. 正则表达式匹配[hard]----IsMatch
+    
+> 经典动态规划：高楼扔鸡蛋https://labuladong.gitee.io/algo/di-er-zhan-a01c6/yong-dong--63ceb/jing-dian--06fca/
+
+    887. 鸡蛋掉落[hard]----SuperEggDrop
+          
