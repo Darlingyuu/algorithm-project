@@ -428,4 +428,7 @@
 > 经典动态规划：高楼扔鸡蛋https://labuladong.gitee.io/algo/di-er-zhan-a01c6/yong-dong--63ceb/jing-dian--06fca/
 
     887. 鸡蛋掉落[hard]----SuperEggDrop
-          
+         
+> 经典动态规划：戳气球https://labuladong.gitee.io/algo/di-er-zhan-a01c6/yong-dong--63ceb/jing-dian--3c814/
+
+    312. 戳气球[hard]----MaxCoins          
