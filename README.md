@@ -433,3 +433,11 @@
 > 经典动态规划：戳气球https://labuladong.gitee.io/algo/di-er-zhan-a01c6/yong-dong--63ceb/jing-dian--3c814/
 
     312. 戳气球[hard]----MaxCoins          
+    
+- 20230701
+> 经典动态规划：博弈问题https://labuladong.gitee.io/algo/di-er-zhan-a01c6/yong-dong--63ceb/jing-dian--467d1/
+
+    486. 预测赢家[medium]----PredictTheWinner
+    877. 石子游戏[medium]----StoneGame
+    
+            
