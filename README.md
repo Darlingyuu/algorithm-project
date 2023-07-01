@@ -440,4 +440,6 @@
     486. 预测赢家[medium]----PredictTheWinner
     877. 石子游戏[medium]----StoneGame
     
-            
+> 经典动态规划：四键键盘https://labuladong.gitee.io/algo/di-er-zhan-a01c6/yong-dong--63ceb/jing-dian--c6891/
+
+    651. 4键键盘[medium]----MaxA           
