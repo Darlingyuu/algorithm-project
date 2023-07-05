@@ -460,4 +460,9 @@
     
 > 剪视频剪出一个贪心算法
 
-    1024. 视频拼接[medium]----VideoStitching        
+    1024. 视频拼接[medium]----VideoStitching
+    
+> 跳跃游戏
+
+    55. 跳跃游戏[medium]----CanJump
+    45. 跳跃游戏 II[medium]----Jump            
