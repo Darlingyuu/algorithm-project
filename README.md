@@ -453,4 +453,11 @@
 
     435. 无重叠区间[medium]----EraseOverlapIntervals
     452. 用最少数量的箭引爆气球[medium]----FindMinArrowShots
+  
+> 扫描线技巧：安排会议室
+
+    253.会议室II[medium]----MinMeetingRoomsII
     
+> 剪视频剪出一个贪心算法
+
+            
