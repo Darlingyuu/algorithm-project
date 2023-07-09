@@ -474,4 +474,8 @@
 - 20230709
 >如何用 BFS 算法秒杀各种智力题https://labuladong.gitee.io/algo/di-san-zha-24031/bao-li-sou-96f79/ru-he-yong-7333b/
 
-    773. 滑动谜题[hard]----SlidingPuzzle    
+    773. 滑动谜题[hard]----SlidingPuzzle
+    
+> 分治算法详解：运算优先级https://labuladong.gitee.io/algo/di-san-zha-24031/jing-dian--a94a0/fen-zhi-su-65a39/
+
+    241. 为运算表达式设计优先级[medium]----DiffWaysToCompute        
