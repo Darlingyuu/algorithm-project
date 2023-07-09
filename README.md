@@ -470,3 +470,8 @@
 
     55. 跳跃游戏[medium]----CanJump
     45. 跳跃游戏 II[medium]----Jump            
+    
+- 20230709
+>如何用 BFS 算法秒杀各种智力题https://labuladong.gitee.io/algo/di-san-zha-24031/bao-li-sou-96f79/ru-he-yong-7333b/
+
+    773. 滑动谜题[hard]----SlidingPuzzle    
