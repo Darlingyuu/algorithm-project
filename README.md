@@ -478,4 +478,10 @@
     
 > 分治算法详解：运算优先级https://labuladong.gitee.io/algo/di-san-zha-24031/jing-dian--a94a0/fen-zhi-su-65a39/
 
-    241. 为运算表达式设计优先级[medium]----DiffWaysToCompute        
+    241. 为运算表达式设计优先级[medium]----DiffWaysToCompute
+    
+> 一文秒杀所有区间相关问题https://mp.weixin.qq.com/s/Eb6ewVajH56cUlY9LetRJw
+
+    1288. 删除被覆盖区间[medium]----RemoveCoveredIntervals
+    56. 合并区间[medium]----Merge
+    986. 区间列表的交集[medium]----IntervalIntersection
