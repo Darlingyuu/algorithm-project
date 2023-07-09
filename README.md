@@ -63,6 +63,8 @@
     20230704----2679. 矩阵中的和[medium]----MatrixSum
     20230705----2600. K 件物品的最大和[easy]----KItemsWithMaximumSum
     20230706----2178. 拆分成最多数目的正偶数之和[medium]----MaximumEvenSplit
+    20230707----2532. 过桥的时间[hard]----FindCrossingTime
+    20230708----167. 两数之和 II - 输入有序数组[medium]----TwoSumII
     
     
 ## 学习labuladong 的算法小抄
