@@ -66,6 +66,8 @@
     20230707----2532. 过桥的时间[hard]----FindCrossingTime
     20230708----167. 两数之和 II - 输入有序数组[medium]----TwoSumII
     20230709----15. 三数之和[medium]----ThreeSum
+    20230729----141. 环形链表[easy]----HasCycle
+    20230730----142.环形链表II[medium]----DetectCycle
     
     
 ## 学习labuladong 的算法小抄
