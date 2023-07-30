@@ -493,3 +493,17 @@
 
     227. 基本计算器 II[medium]----CalculateII
     224. 基本计算器[hard]----Calculate
+    
+  
+## leetcode Hot100
+- 20230730
+
+        哈希
+            1. 两数之和[easy]----TwoSum
+            49. 字母异位词分组[medium]----GroupAnagrams
+            128. 最长连续序列[medium]----LongestConsecutive
+        双指针
+            283. 移动零[easy]----MoveZeroes            
+            11. 盛最多水的容器[medium]----MaxArea
+            15. 三数之和[medium]----ThreeSum
+            42. 接雨水[hard]----Trap
