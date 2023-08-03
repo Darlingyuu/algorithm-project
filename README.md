@@ -71,6 +71,10 @@
     20230730----142.环形链表II[medium]----DetectCycle
     20230731----143. 重排链表[medium]----ReorderList
     
+    20230801----2681. 英雄的力量[hard]----SumOfPower
+    20230802----822. 翻转卡片游戏[medium]----Flipgame
+    20230803----722. 删除注释[medium]----RemoveComments
+    
     
 ## 学习labuladong 的算法小抄
 - 20230511
