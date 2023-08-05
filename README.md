@@ -74,6 +74,8 @@
     20230801----2681. 英雄的力量[hard]----SumOfPower
     20230802----822. 翻转卡片游戏[medium]----Flipgame
     20230803----722. 删除注释[medium]----RemoveComments
+    20230804----980. 不同路径 III[hard]----UniquePathsIII
+    20230805----21. 合并两个有序链表[easy]----MergeTwoLists
     
     
 ## 学习labuladong 的算法小抄
