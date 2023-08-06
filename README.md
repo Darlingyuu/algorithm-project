@@ -76,6 +76,7 @@
     20230803----722. 删除注释[medium]----RemoveComments
     20230804----980. 不同路径 III[hard]----UniquePathsIII
     20230805----21. 合并两个有序链表[easy]----MergeTwoLists
+    20230806----24. 两两交换链表中的节点[medium]----SwapPairs
     
     
 ## 学习labuladong 的算法小抄
@@ -529,3 +530,9 @@
             560. 和为 K 的子数组[medium]----SubarraySum
             239. 滑动窗口最大值[hard]----MaxSlidingWindow
             76. 最小覆盖子串[hard]----MinWindow
+            
+- 20230805
+
+        普通数组
+            53. 最大子数组和[medium]----MaxSubArray           
+            56. 合并区间[medium]----Merge
