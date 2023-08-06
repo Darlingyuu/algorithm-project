@@ -536,3 +536,5 @@
         普通数组
             53. 最大子数组和[medium]----MaxSubArray           
             56. 合并区间[medium]----Merge
+            238. 除自身以外数组的乘积[medium]----ProductExceptSelf
+            41. 缺失的第一个正数[hard]----FirstMissingPositive
