@@ -78,6 +78,7 @@
     20230805----21. 合并两个有序链表[easy]----MergeTwoLists
     20230806----24. 两两交换链表中的节点[medium]----SwapPairs
     20230807----344. 反转字符串[easy]----ReverseString
+    20230808----1749. 任意子数组和的绝对值的最大值[medium]----MaxAbsoluteSum
     
     
 ## 学习labuladong 的算法小抄
@@ -548,3 +549,12 @@
             54. 螺旋矩阵[medium]----SpiralOrder
             48. 旋转图像[medium]----RotateII
             240. 搜索二维矩阵 II[medium]----SearchMatrix
+            
+- 20230807
+
+        链表
+            160. 相交链表[easy]----GetIntersectionNode            
+            206. 反转链表[easy]----ReverseList
+            234. 回文链表[easy]----IsPalindrome
+            141. 环形链表[easy]----HasCycle
+            142. 环形链表 II[medium]----DetectCycle
