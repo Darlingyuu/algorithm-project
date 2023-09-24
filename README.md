@@ -558,3 +558,9 @@
             234. 回文链表[easy]----IsPalindrome
             141. 环形链表[easy]----HasCycle
             142. 环形链表 II[medium]----DetectCycle
+            
+- 20230924
+
+        链表
+            21. 合并两个有序链表[easy]----MergeTwoLists
+            2.两数相加[medium]----AddTwoNumbers            
